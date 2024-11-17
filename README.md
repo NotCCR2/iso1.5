@@ -4,4 +4,6 @@ My new C++ GDI malware. I'm not responsible for any damages made with it, only r
 > [!NOTE]
 > The password to the zipped archive is "diskimg32".
 >
+> Archive with source code: "diskimg"
+>
 > This only works on Windows XP, just like @VenraTech's iso.exe.
